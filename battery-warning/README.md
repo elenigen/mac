@@ -1,3 +1,10 @@
+## Description
+In order to make it more explicit when the battery is low and needs to be charged.   
+If the charge is ...   
+< 5% ➔ Blink the screen one time   
+< 3% ➔ Blink the screen three times   
+< 2% ➔ Blink the screen three times and send a voice message `PLUG ME IN NOW` + a notification: `Computer is about to shutdown!`   
+
 ## Steps
 
 1. Enable invert colors shortcut:
